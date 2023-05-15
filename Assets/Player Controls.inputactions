@@ -240,6 +240,28 @@
                 },
                 {
                     "name": "",
+                    "id": "29bcd663-7e2a-40a4-b85e-ae1ccdd986a7",
+                    "path": "<XInputController>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cf27b12e-caf5-471a-a079-2fe2b58f67b2",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "588ea196-c02c-462c-9381-ada37aabb578",
                     "path": "<Mouse>/leftButton",
                     "interactions": "",
@@ -275,6 +297,28 @@
                     "name": "",
                     "id": "b34a932c-59ae-4419-a4dc-1d9da84a25f9",
                     "path": "<XInputController>/rightShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Punch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "67271ac1-cec9-4d55-9566-ed487a5be9b9",
+                    "path": "<Gamepad>/leftShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Punch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5b13998f-3c29-4280-89dd-a22d0145ab26",
+                    "path": "<Gamepad>/rightShoulder",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
